@@ -1,0 +1,10 @@
+Backend/node_modules/
+Frontend/node_modules/
+
+Backend/.env
+Backend/.env.development.local
+Backend/.env.test.local
+Backend/.env.production.local
+Backend/.env.local
+
+Frontend/.env
